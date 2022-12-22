@@ -3,5 +3,5 @@
 > status do prejeto: em andamento
 
 ```
-npm install react
+node app.js
 ```
